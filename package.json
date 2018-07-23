@@ -1,0 +1,31 @@
+{
+  "name": "@30ozsteak/npm-sort",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/30ozSteak/npm-sort.git"
+  },
+  "keywords": [
+    "javacript",
+    "sorting",
+    "algorithms"
+  ],
+  "author": "Nick Dambrosio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/30ozSteak/npm-sort/issues"
+  },
+  "homepage": "https://github.com/30ozSteak/npm-sort#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
